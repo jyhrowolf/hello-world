@@ -18,7 +18,6 @@ public class GitDemo {
         previousNumber += num
         return previousNumber;
     }
-    
     /*****
      * This function should calculate the factorial of 'num' and return the resulting value.
      * i.e. if num = 4,
@@ -35,7 +34,6 @@ public class GitDemo {
         
         return factorialNumber;
     }
-    
     /*****
      * This function should reverse 'num' and return the resulting value.
      * i.e. if num = 1234
